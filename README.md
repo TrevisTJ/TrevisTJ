@@ -30,7 +30,7 @@ Estou entusiasmado com as possibilidades que esta nova jornada trará e ansioso 
 </div>
 <p align="center">
     </a>
-    <a href="www.linkedin.com/in/Trevis TJtrevis">
+    <a href="www.linkedin.com/in/andersontrevis">
         <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=Trevis TJtrevis&color=26A9A9">
     </a>
     <a href="sasso.021015@gmail.com">
@@ -68,5 +68,6 @@ Estou entusiasmado com as possibilidades que esta nova jornada trará e ansioso 
    <a href="https://github.com/Trevis TJ">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TrevisTJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisTJ&layout=compact&langs_count=6&theme=tokyonight"/>
+
 </div>
     
