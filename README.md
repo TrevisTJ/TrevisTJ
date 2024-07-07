@@ -29,13 +29,10 @@ Estou entusiasmado com as possibilidades que esta nova jornada trará e ansioso 
     <h2>:mailbox: Contact</h2>
 </div>
 <p align="center">
-    </a>
-    <a href="www.linkedin.com/in/andersontrevis">
-        <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=Trevis TJtrevis&color=26A9A9">
-    </a>
-    <a href="sasso.021015@gmail.com">
-        <img alt="E-mail" src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft-gmail&label=Gmail&message=sasso.021015@gmail.com.com&color=26A9A">
-    </a>
+    
+ <a href="[https://discord.gg/5DVhGKVf4h](https://discord.com/channels/@me)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "sasso.021015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/andersontrevis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 <br>
