@@ -52,9 +52,7 @@ Estou entusiasmado com as possibilidades que esta nova jornada trará e ansioso 
 <br>
 
 <div align="center">
-    <h
-
-<h2>🏆 GitHub</h2>
+<h2>:trophy: GitHub</h2>
 </div>
 
 <br>
