@@ -15,11 +15,19 @@
 <div align="center">
     <h2>:rocket: Profile</h2>
     <p style="font-size: 16px;">
-    Sou um profissional com sólida experiência em cartório de notas e liderança de expedição. Sempre gostei de tecnologia, por isso decidi seguir minha paixão e estou atualmente estudando PROGRAMAÇÃO para fazer uma transição de carreira. 
+    Olá eu me chamo Anderson Trevisan
 
-Estou em busca da minha primeira oportunidade na área de tecnologia, onde posso aplicar meus conhecimentos recém adquiridos como  HTML, CSS e JavaScript, e frameworks como ReactJS.
+Minha trajetória profissional é marcada por experiências diversificadas que me ajudaram a desenvolver habilidades fundamentais. Trabalhei por alguns anos em cartório de notas e também liderando uma equipe em expedição, onde era essencial alinhar os carregamentos com o setor comercial. Atualmente, atuo na produção e venda de alimentos.
 
-Estou entusiasmado com as possibilidades que esta nova jornada trará e ansioso para contribuir com minha dedicação e habilidades em um ambiente inovador.
+Sempre fui apaixonado por tecnologia e, durante minha jornada de estudo, adquiri um pouco de conhecimentos em HTML, CSS e JavaScript. Atualmente, estou me dedicando ao estudo da linguagem Golang na comunidade DevCompleto, com o objetivo de me inserir no mercado como Desenvolvedor Backend. Estou ansioso para aplicar meus conhecimentos e colaborar em projetos desafiadores.
+
+Fico à disposição para mais informações
+
+Contatos:
+
+Cel; (15) 98812-3623
+Email: sasso.021015@gmail.com
+GitHub: https://github.com/TrevisTJ
     </p>
 </div>
   
