@@ -1,7 +1,7 @@
 # Hi there! my name is Anderson Trevisan
 ## I'm Developer Front End
 
-- :books: I am currently studying programming, JavaScript | ReactJS | HTML | CSS
+- :books: I am currently studying programming, Golang
 
 ### Hobbies
 
