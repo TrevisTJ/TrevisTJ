@@ -1,7 +1,7 @@
 # Hi there! my name is Anderson Trevisan
 ## I'm Developer Backend
 
-- :books: I am currently studying programming, Golang
+- :books: I am currently studying the Golang language
 
 ### Hobbies
 
