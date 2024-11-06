@@ -17,13 +17,18 @@
     <p style="font-size: 16px;">
     Olá eu me chamo Anderson Trevisan
 
+Olá eu me chamo Anderson Trevisan
+
 Minha trajetória profissional é marcada por experiências diversificadas que me ajudaram a desenvolver habilidades fundamentais. Trabalhei por alguns anos em cartório de notas e também liderando uma equipe em expedição, onde era essencial alinhar os carregamentos com o setor comercial. Atualmente, atuo na produção e venda de alimentos.
 
-Sempre fui apaixonado por tecnologia e, durante minha jornada de estudo, adquiri um pouco de conhecimentos em HTML, CSS e JavaScript. Atualmente, estou me dedicando ao estudo da linguagem Golang na comunidade DevCompleto, com o objetivo de me inserir no mercado como Desenvolvedor Backend. Estou ansioso para aplicar meus conhecimentos e colaborar em projetos desafiadores.
+Sempre fui apaixonado por tecnologia e, durante minha jornada de estudo, adquiri conhecimentos em HTML e CSS. Atualmente, estou me dedicando ao estudo da linguagem Golang na comunidade DevCompleto, com o objetivo de me inserir no mercado como Desenvolvedor Backend. Estou ansioso para aplicar meus conhecimentos e colaborar em projetos desafiadores.
 
 Fico à disposição para mais informações
 
 Contatos:
+
+Cel; (15) 98812-3623
+Email: sasso.021015@gmail.com
 
 Cel; (15) 98812-3623
 Email: sasso.021015@gmail.com
