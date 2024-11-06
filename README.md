@@ -17,8 +17,6 @@
     <p style="font-size: 16px;">
     Olá eu me chamo Anderson Trevisan
 
-Olá eu me chamo Anderson Trevisan
-
 Minha trajetória profissional é marcada por experiências diversificadas que me ajudaram a desenvolver habilidades fundamentais. Trabalhei por alguns anos em cartório de notas e também liderando uma equipe em expedição, onde era essencial alinhar os carregamentos com o setor comercial. Atualmente, atuo na produção e venda de alimentos.
 
 Sempre fui apaixonado por tecnologia e, durante minha jornada de estudo, adquiri conhecimentos em HTML e CSS. Atualmente, estou me dedicando ao estudo da linguagem Golang na comunidade DevCompleto, com o objetivo de me inserir no mercado como Desenvolvedor Backend. Estou ansioso para aplicar meus conhecimentos e colaborar em projetos desafiadores.
