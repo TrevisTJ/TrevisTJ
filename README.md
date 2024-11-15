@@ -57,6 +57,7 @@ GitHub: https://github.com/TrevisTJ
       <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
       <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img alt= "GO" src= "https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
      </p>
 </div>
 
