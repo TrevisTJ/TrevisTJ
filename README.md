@@ -27,9 +27,6 @@ Contatos:
 
 Cel; (15) 98812-3623
 Email: sasso.021015@gmail.com
-
-Cel; (15) 98812-3623
-Email: sasso.021015@gmail.com
 GitHub: https://github.com/TrevisTJ
     </p>
 </div>
